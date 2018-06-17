@@ -3,11 +3,11 @@
  *
  * For more info about this project, check out my blog for the full story
  * images, and the endresult of the project:
- * http://michaelteeuw.nl
+ * http://michaelteeuw.nl/post/174972004187/what-time-is-it-fathers-day
  *
  * LICENSE: Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated documentation files
- * (the "Software"). For more info see LICENCE.
+ * (the "Software"). For more info see LICENSE file.
  *
  * @category   CategoryName
  * @package    PackageName
